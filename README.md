@@ -113,6 +113,6 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/RazorRSD/RazorRSD/blob/output/snake.svg](https://github.com/RazorRSD/RazorRSD/blob/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
+![Snake animation](https://github.com/RazorRSD/RazorRSD/blob/output/github-contribution-grid-snake.svg)
 
 ###
