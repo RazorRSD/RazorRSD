@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://scontent.fcmb11-1.fna.fbcdn.net/v/t39.30808-6/300366217_447538084057770_7879993797861307606_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=aOhqOjP448EAX_qLKbG&_nc_ht=scontent.fcmb11-1.fna&oh=00_AfCMx43rtmwGrCNcVUEEeiPV7c20ILXiTueV7YxTqVSAyQ&oe=63770D66"  />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/76995583?s=400&u=89a4f483523d041305eea1cb0b307586f32cdf24&v=4"  />
 
 ###
 
