@@ -119,6 +119,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/RazorRSD/RazorRSD/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RazorRSD/RazorRSD/blob/output/github-contribution-grid-snake.svg)
 
 ###
